@@ -10,7 +10,7 @@ public class BasicLearning {
 
 		int num = 100+20;
 		System.out.println((num+9+5)*200/number/10);
-		System.out.println("初めてのjava");
+		System.out.println("初めてのjava\n初めてのgithub");
 	}
 
 }
