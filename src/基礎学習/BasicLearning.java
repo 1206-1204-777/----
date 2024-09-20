@@ -6,7 +6,7 @@ public class BasicLearning {
 		int number = (int)rand;
 		System.out.println(rand);
 		System.out.println(number);
-		//System.out.println("Hello world");
+		System.out.println("Hello world");
 
 		int num = 100+20;
 		System.out.println((num+9+5)*200/number/10);
