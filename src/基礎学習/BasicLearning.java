@@ -14,5 +14,4 @@ public class BasicLearning {
 			System.out.println("修正してください");
 		}
 	}
-
 }
