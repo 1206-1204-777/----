@@ -12,5 +12,14 @@ public class BasicLearning {
                 case 2 -> System.out.println(number*100+"点");//numberが2の処理
                 default -> System.out.println("修正してください");
             }
+        //if文
+        int num = rand.nextInt(11,14);//乱数範囲11~13
+        if(num<12){
+            System.out.println("午前中");
+        }else if(num==12){
+            System.out.println("正午");
+        }else if(num>12){
+            System.out.println("午後");
+        }
 	}
 }
